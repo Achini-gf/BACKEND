@@ -23,4 +23,4 @@ const query = async (sql, values = []) => {
     }
   });
 };
-module.exports = { query }
+module.exports = { query }
